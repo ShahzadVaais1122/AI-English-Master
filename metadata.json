@@ -1,0 +1,7 @@
+{
+  "name": "FluentFlow - AI English Tutor",
+  "description": "Master English conversation with an AI tutor. Practice real-time speaking with instant feedback or refine your grammar through interactive text chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
